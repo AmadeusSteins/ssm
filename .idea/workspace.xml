@@ -6,7 +6,29 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bd8bc32-d42c-44a7-9d8a-69f0e9a4e4b9" name="Default Changelist" comment="" />
+    <list default="true" id="3bd8bc32-d42c-44a7-9d8a-69f0e9a4e4b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/failer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/failer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/img/center.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/img/center.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/orders-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/orders-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/orders-page-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/orders-page-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/orders-show.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/orders-show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/permission-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/permission-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/permission-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/permission-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/product-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/product-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/product-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/product-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/role-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/role-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/role-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/role-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/role-permission-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/role-permission-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-role-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-role-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-show.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-show.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -30,10 +55,15 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="I:\application\maven_repository" />
-        <option name="mavenHome" value="I:/application/apache-maven-3.5.2" />
-        <option name="userSettingsFile" value="I:\application\apache-maven-3.5.2\conf\settings.xml" />
+        <option name="localRepository" value="D:\application\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../application/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\application\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenRunner">
@@ -48,21 +78,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ssm_web/src/main/webapp/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ssm_web/src/main/webapp/img" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\aa\ssm_web\src\main\webapp\img" />
       <recent name="K:\project\ssm_manager\ssm_web\src\main\webapp\pages" />
       <recent name="K:\project\ssm_manager\ssm_dao\src\main\java\ssm\dao" />
       <recent name="K:\project\ssm_manager\ssm_domain\src\main\java\ssm\domain" />
       <recent name="K:\project\ssm_manager\ssm_web\src\main\resources" />
-      <recent name="K:\project\ssm_manager\ssm_web\src\main\webapp" />
     </key>
   </component>
   <component name="RunManager">
@@ -203,6 +234,7 @@
       <workItem from="1597636345012" duration="14460000" />
       <workItem from="1597711345841" duration="1455000" />
       <workItem from="1597808361248" duration="5476000" />
+      <workItem from="1607174259547" duration="585000" />
     </task>
     <servers />
   </component>
@@ -210,93 +242,65 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594734133696">
+    <state x="601" y="316" key="FileChooserDialogImpl" timestamp="1607174324239">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594734133696" />
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1597677276128">
+    <state x="601" y="316" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1607174324239" />
+    <state width="1873" height="285" key="GridCell.Tab.0.bottom" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597677276128" />
-    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1594559283992">
+    <state width="1873" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1873" height="285" key="GridCell.Tab.0.center" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1920.1080@0.0.1920.1080" timestamp="1594559283992" />
-    <state width="1873" height="294" key="GridCell.Tab.0.bottom" timestamp="1597830468069">
+    <state width="1873" height="285" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1873" height="285" key="GridCell.Tab.0.left" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1873" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597830468069" />
-    <state width="1873" height="294" key="GridCell.Tab.0.center" timestamp="1597830468069">
+    <state width="1873" height="285" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1873" height="285" key="GridCell.Tab.0.right" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1873" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597830468069" />
-    <state width="1873" height="294" key="GridCell.Tab.0.left" timestamp="1597830468069">
+    <state width="1873" height="285" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1290" height="285" key="GridCell.Tab.1.bottom" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1873" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597830468069" />
-    <state width="1873" height="294" key="GridCell.Tab.0.right" timestamp="1597830468069">
+    <state width="1290" height="285" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1290" height="285" key="GridCell.Tab.1.center" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1873" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597830468069" />
-    <state width="1290" height="294" key="GridCell.Tab.1.bottom" timestamp="1596986058978">
+    <state width="1290" height="285" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1290" height="285" key="GridCell.Tab.1.left" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1290" height="294" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596986058978" />
-    <state width="1290" height="294" key="GridCell.Tab.1.center" timestamp="1596986058978">
+    <state width="1290" height="285" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1290" height="285" key="GridCell.Tab.1.right" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1290" height="294" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596986058978" />
-    <state width="1290" height="294" key="GridCell.Tab.1.left" timestamp="1596986058978">
+    <state width="1290" height="285" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1290" height="285" key="GridCell.Tab.2.bottom" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1290" height="294" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596986058978" />
-    <state width="1290" height="294" key="GridCell.Tab.1.right" timestamp="1596986058978">
+    <state width="1290" height="285" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1290" height="285" key="GridCell.Tab.2.center" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1290" height="294" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596986058978" />
-    <state width="1290" height="294" key="GridCell.Tab.2.bottom" timestamp="1596986058978">
+    <state width="1290" height="285" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1290" height="285" key="GridCell.Tab.2.left" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1290" height="294" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596986058978" />
-    <state width="1290" height="294" key="GridCell.Tab.2.center" timestamp="1596986058978">
+    <state width="1290" height="285" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state width="1290" height="285" key="GridCell.Tab.2.right" timestamp="1607174858328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1290" height="294" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596986058978" />
-    <state width="1290" height="294" key="GridCell.Tab.2.left" timestamp="1596986058978">
+    <state width="1290" height="285" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607174858328" />
+    <state x="330" y="203" key="SettingsEditor" timestamp="1607174375132">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1290" height="294" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596986058978" />
-    <state width="1290" height="294" key="GridCell.Tab.2.right" timestamp="1596986058978">
+    <state x="330" y="203" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1607174375132" />
+    <state x="636" y="269" width="792" height="614" key="find.popup" timestamp="1607174469390">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1290" height="294" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596986058978" />
-    <state width="1293" height="295" key="GridCell.Tab.3.bottom" timestamp="1594981505949">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1293" height="295" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594981505949" />
-    <state width="1293" height="295" key="GridCell.Tab.3.center" timestamp="1594981505949">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1293" height="295" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594981505949" />
-    <state width="1293" height="295" key="GridCell.Tab.3.left" timestamp="1594981505949">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1293" height="295" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594981505949" />
-    <state width="1293" height="295" key="GridCell.Tab.3.right" timestamp="1594981505949">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1293" height="295" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594981505949" />
-    <state x="461" y="181" key="SettingsEditor" timestamp="1594559795048">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="461" y="181" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594559795048" />
-    <state x="511" y="275" width="897" height="606" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594981460984">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="511" y="275" width="897" height="606" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1594981460984" />
-    <state x="334" y="234" key="new project wizard" timestamp="1594560255860">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="334" y="234" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1594560255860" />
+    <state x="636" y="269" width="792" height="614" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607174469390" />
   </component>
 </project>
